@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ArshadTK | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>JaseemPP</h1>
+    <p>Cyber Security</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I am Muhammed Jaseem pp, a cybersecurity enthusiast who loves solving CTF challenges, uncovering vulnerabilities, and building tools to strengthen digital defenses. Skilled in ethical hacking, scripting, and forensics, I approach every challenge with curiosity and precision. My goal is to stay ahead of threats and help create a safer digital world.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Wireshark</li>   
+      <li>Nmap</li>
+      <li>Wifite</li>
+      <li>Nikto</li>
+      <li>Maltego</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div>
+      <h3>PicoCTF</h3>
+      <p>PicoCTF – A beginner-friendly online cybersecurity game with hacking challenges.</p>
+      <a href="#" class="button">GitHub</a>
+
+      <h3>Wordlist Forge</h3>
+      <p>Wordlist Forge – A tool for creating custom wordlists for password cracking or security testing.</p>
+      <a href="#" class="button">GitHub</a>
+
+      <h3>TryHackMe</h3>
+      <p>TryHackMe – An online platform for learning cybersecurity through hands-on labs and challenges.</p>
+      <a href="#" class="button">GitHub</a>
+  </section>
+
+     <section id="contact">
+    <h2>Contact</h2>
+    <p>jmhd598@gmail.com</p>
+    <a href="www.linkedin.com/in/muhammed-jaseem-pp">LinkedIn</a>
+</section>
+
+  <footer>
+    <p>© 2025 Muhmme Jaseem pp</p>
+  </footer>
+</body>
+</html>
